@@ -26,7 +26,7 @@ This project focuses on analyzing and comparing product sales performance using 
 - KPI cards and charts
 
 ## Dataset
-The project uses retail store sales data for analyzing product sales, profit, quantity, and other business metrics.
+The project uses Superstore sales data for analyzing product sales, profit, quantity, and other business metrics.
 
 ## Project Files
 - Power BI Dashboard (.pbix)
