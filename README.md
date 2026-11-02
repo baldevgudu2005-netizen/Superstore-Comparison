@@ -1,4 +1,4 @@
-# Product-Sales-Comparison
+# Superstore comparsion
 IBM Product Sales Comparison using Power BI
 
 ## Project Overview
@@ -40,4 +40,4 @@ The dashboard provides a clear overview of sales and profitability, helping user
 BALDEV PRADHAN
 
 ## Project
-IBM Product Sales Comparison
+Superstore Comparison
